@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{1B577581-50BC-32EE-D0C7-7559CFC2FF14}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/NonPlayer.cs">
+    <Files>
+      <File FileName="Assets/NonPlayer.cs" Line="8" Column="8" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EscapeIO" expanded="True">
+            <Node name="Assets" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4175f5b8-6f87-4c1a-b525-c820feb61a6b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
